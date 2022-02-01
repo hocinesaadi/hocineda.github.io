@@ -470,6 +470,19 @@ span{
   border:none;
   border-radius:100px;
   transition:0.3s;
+  background-color:#bbd4d4;
+  animation: glow 1s infinite ;
+  transition:0.5s;
+  margin-left: 0%;
+}  
+
+#neonShada{
+  background-size: cover;
+  height:50px;
+  width:50px;
+  border:none;
+  border-radius:100px;
+  transition:0.3s;
   background-color:#163535;
   animation: glow 1s infinite ;
   transition:0.5s;
